@@ -1,0 +1,9 @@
+{
+  "appId": "com.helpinghand.ess",
+  "appName": "Helping Hand ESS",
+  "webDir": "www",
+  "server": {
+    "url": "https://rm.helpinghand.org.hk:8443/ess",
+    "cleartext": true
+  }
+}
